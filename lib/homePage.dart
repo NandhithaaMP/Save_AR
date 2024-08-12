@@ -322,26 +322,7 @@ class HomePage extends StatelessWidget {
 
 
           
-              // Padding(
-              //   padding: const EdgeInsets.all(20),
-              //   // child:
-              //   //
-              //   // InkWell(
-              //   //   onTap: () {
-              //   //     Navigator.push(context, MaterialPageRoute(builder: (context) => ParticipantScreen()));
-              //   //   },
-              //     child: Container(
-              //       height: height/12,
-              //       width: width,
-              //       child: Center(child: Text("Contribute Now",style: TextStyle(color: Colors.white,fontSize: 30,fontFamily: "poppins"),)),
-              //       decoration: BoxDecoration(
-              //         color: Color(0xffC46F4E),
-              //         borderRadius: BorderRadius.circular(30)
-              //       ),
-              //     ),
-              //   ),
-              // )
-            ],
+                      ],
           ),
         ),
         floatingActionButton: Container(
